@@ -1,6 +1,7 @@
 ## Architecture
 
 - Application structure
+
   - Modularity: *
   - Components: *
   - Directories: *
@@ -33,21 +34,26 @@
   - Metaprogramming: ~
   - Inversion of control (IoC): *
   - Dependency injection (DI): *
+
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
+
   - Service locator: *
+
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
+
   - UML: *
   - Work breakdown structure: ~
   - Budget estimation: ~
+
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -68,27 +74,35 @@
   - Process modelling
   - Data modelling
   - Solution components
+
   - Risk assessment: ~
+
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
   - Low-code
+
   - No-code: ~
+
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
+
   - Understanding business needs: ~
+
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
+
   - Service-oriented architecture: *
   - Microservices: *
+
   - Process choreography
   - Service orchestration
   - Data warehouse

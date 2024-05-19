@@ -1,6 +1,7 @@
 ## JavaScript
 
 - Language
+
   - `Object`: *
   - `Function`: *
   - `Boolean`: *
@@ -18,6 +19,7 @@
   - `...rest`
   - `typeof`: *
   - Destructuring: *
+
   - Generators
   - Iterators
   - Async generator
@@ -26,23 +28,28 @@
   - Optional chaining
   - IIFE
   - Async IIFE
+
   - `global`: *
+
   - `globalThis`
   - `window`
   - Getters and setters
   - `__proto__`
+
   - `prototype`: *
   - Equality operators: *
   - Logical operators: *
   - Logical Assignment
   - Bitwise operators
   - Ternary operator: *
+
   - `void`
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
+
   - `delete`: *
   - `in`: *
   - `super`
@@ -50,6 +57,7 @@
   - `static`
   - `Number.parseInt`: *
   - `Number.parseFloat`: *
+
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,6 +67,7 @@
   - Private class fields
   - Private class methods
 - Statements
+
   - `if`: *
   - `while`: *
   - `do..while`: *
@@ -91,6 +100,7 @@
   - `return`: *
 - Data structures
   - `Array`: *
+
   - `Map`
   - `Set`
   - `WeakMap`
@@ -116,7 +126,9 @@
 - Infrastructure
   - V8
   - Node.js
+
   - npm: *
+
   - prettier
   - MDN
   - TC39

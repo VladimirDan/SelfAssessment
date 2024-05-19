@@ -1,6 +1,7 @@
 ## Programming fundamental concepts
 
 - Concepts
+
   - Model: *
   - Modeling: *
   - Subject domain: *
@@ -198,6 +199,7 @@
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump: +
+
   - Feature envy
   - Monkey patch
   - Yo-yo problem
@@ -209,6 +211,7 @@
   - Mono
 - Operating systems
   - Interrupts
+
   - Drivers: +
   - Kernel: +
   - Ring
@@ -223,17 +226,22 @@
   - Embedded OS
 - Standards
   - ASCII: *
+
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
+
   - Base64: *
+
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
+
   - UTF-8: *
+
   - W3C
   - ODMG

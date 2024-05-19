@@ -1,6 +1,7 @@
 ## Multi-paradigm programming
 
 - Theory
+
   - Procedural programming: *
   - Imperative programming: *
   - Structured programming: *
@@ -45,6 +46,7 @@
   - Hidden class
   - Object form: *
   - Instance: *
+
   - Introspection
   - Reflection
   - The diamond problem

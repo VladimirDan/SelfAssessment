@@ -1,18 +1,21 @@
 ## Asynchronous programming
 
 - Theory
+
   - Event loop: *
   - `try..catch`: *
   - Non-blocking: *
   - Async I/O: *
   - Thread pool: *
   - Pattern Reactor: *
+
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
+
   - Race conditions: *
   - Dead locks: *
   - Live locks
@@ -58,6 +61,7 @@
   - Semaphore: *
   - Mutex: *
   - Spin Lock: ~
+
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`

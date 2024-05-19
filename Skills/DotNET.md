@@ -1,17 +1,21 @@
 ## .NET
 
 - Core Concepts and Internals
+
   - Strengths and weaknesses of .NET: ~
   - Stateful and stateless services
   - Asynchronous and synchronous programming: *
   - Task-based asynchronous pattern: ~
   - Garbage collection in .NET: ~
+
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
-  - NuGet package management: ~
+
+  - NuGet package management
+
   - Dependency management in .NET
   - Dependency Injection in .NET
   - Inversion of Control (IoC)
@@ -25,8 +29,10 @@
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
+
   - File system I/O operations: +
   - Multithreading with Task Parallel Library (TPL): ~
+
   - Performance monitoring and diagnostics
 - APIs and Framework Features
   - LINQ
@@ -35,8 +41,9 @@
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
   - Memory and resource management: ~
+
   - Globalization and localization
-- Network and Protocols
+  - Network and Protocols
   - HTTP/HTTPS support
   - WebSockets for real-time communication
   - TCP/UDP networking
@@ -46,7 +53,9 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
+
   - Unit testing with frameworks like xUnit, NUnit: *
+
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
@@ -60,9 +69,11 @@
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
+
   - Exception handling in .NET: +
   - Custom error classes: +
   - Debugging and diagnostic tools: +
+
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
@@ -78,6 +89,7 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
+
   - C# syntax and language fundamentals: *
   - Advanced C# features (LINQ, async/await, delegates, events): *
   - Reflection and dynamic programming: *
@@ -85,6 +97,7 @@
   - Generics and extension methods: *
   - Attributes and annotations: *
   - Interoperability with other .NET languages: ~
+
 - `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
@@ -103,7 +116,9 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
+
   - C++ syntax and language fundamentals: *
+
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -120,7 +135,9 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
+
   - Unity: *
+
 - Web development
   - ASP.NET Core
   - Blazor
