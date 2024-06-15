@@ -66,7 +66,7 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling u
   - Solution components
   - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR)
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope u
   - Enterprise service bus
   - Service-oriented architecture: 🖐️ used
   - Microservices: 🖐️ used
