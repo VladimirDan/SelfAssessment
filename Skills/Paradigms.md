@@ -9,15 +9,15 @@
   - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
-  - Generic programming:  🖐️ used
-  - Concurrent computing:  👂 heard
-  - Asynchronous programming:  🖐️ used
-  - Parallel programming:  🖐️ used
-  - Reactive programming:  🖐️ used
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🖐️ used
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming:  🖐️ used
+  - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model
   - Lambda calculus
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor:  🖐️ used
-  - Operator `new`:  🖐️ used
-  - Static method:  🖐️ used
-  - Method:  🖐️ used
-  - Async method:  🖐️ used
-  - Getters, Setters:  🖐️ used
-  - Public fields:  🖐️ used
-  - Private fields:  🖐️ used
-  - Field declarations:  🖐️ used
-  - Inheritance:  🖐️ used
-  - Parent class:  🖐️ used
-  - Polymorphism:  🖐️ used
-  - Abstract class:  🖐️ used
-  - Interface:  🖐️ used
-  - Encapsulation:  🖐️ used
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
   - Hidden class
-  - Object form:  🖐️ used
-  - Instance:  🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,20 +58,20 @@
   - Protected variations: 👂 heard
   - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP):  🖐️ used
-  - Open–closed principle (OCP):  🖐️ used
-  - Liskov substitution principle (LSP):  🖐️ used
-  - Interface segregation principle (ISP):  🖐️ used
-  - Dependency inversion principle (DIP):  🖐️ used
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton:  🖐️ used
-  - Factory Method:  🖐️ used
-  - Abstract Factory:  🖐️ used
-  - Adapter:  🖐️ used
-  - Observer:  🖐️ used
-  - Strategy:  🖐️ used
-  - Facade:  🖐️ used
-  - Proxy:  🖐️ used
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 👂 heard
   - Command: 👂 heard
   - Iterator: 👂 heard

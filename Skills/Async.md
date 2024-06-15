@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop:  🖐️ used
-  - `try..catch`:  🖐️ used
-  - Non-blocking:  🖐️ used
-  - Async I/O:  🖐️ used
-  - Thread pool:  🖐️ used
-  - Pattern Reactor:  🖐️ used
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
+  - Pattern Reactor: 🖐️ used
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions:  🖐️ used
-  - Dead locks:  🖐️ used
+  - Race conditions: 🖐️ used
+  - Dead locks: 🖐️ used
   - Live locks
-  - Concurrent programming:  🖐️ used
-  - Parallel programming:  🖐️ used
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread:  🖐️ used
-  - Process:  🖐️ used
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks:  🖐️ used
-  - Callback-last-error-first:  🖐️ used
-  - Thenable:  🖐️ used
-  - Promise:  🖐️ used
-  - Async/await:  🖐️ used
-  - Future:  🖐️ used
-  - Deferred:  🖐️ used
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 🖐️ used
+  - Deferred: 🖐️ used
   - Sync generator: 🎓 known
   - Async Generator: 🎓 known
-  - Async Iterator:  🖐️ used
-  - Event:  🖐️ used
-  - Coroutine:  🖐️ used
+  - Async Iterator: 🖐️ used
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
   - Goroutine
   - Signal
-  - Stream:  🖐️ used
-  - Chain of responsibility:  🖐️ used
+  - Stream: 🖐️ used
+  - Chain of responsibility: 🖐️ used
   - Middleware: 👂 heard
-  - Locks:  🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify: 🎓 known
   - promisify: 🎓 known
@@ -47,16 +47,16 @@
   - Callbacks compose: 👂 heard
   - Async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter:  🖐️ used
-  - Observable/Observer:  🖐️ used
-  - Readable:  🖐️ used
-  - Writable:  🖐️ used
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform: 🎓 known
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 🎓 known
-  - Semaphore:  🖐️ used
-  - Mutex:  🖐️ used
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers

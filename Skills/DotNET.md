@@ -3,7 +3,7 @@
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET: 👂 heard
   - Stateful and stateless services
-  - Asynchronous and synchronous programming:  🖐️ used
+  - Asynchronous and synchronous programming: 🖐️ used
   - Task-based asynchronous pattern: 👂 heard
   - Garbage collection in .NET: 👂 heard
   - .NET runtime versions and support
@@ -46,7 +46,7 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit:  🖐️ used
+  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
@@ -78,12 +78,12 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals:  🖐️ used
-  - Advanced C# features (LINQ, async/await, delegates, events):  🖐️ used
-  - Reflection and dynamic programming:  🖐️ used
-  - Data types and collections:  🖐️ used
-  - Generics and extension methods:  🖐️ used
-  - Attributes and annotations:  🖐️ used
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
+  - Reflection and dynamic programming: 🖐️ used
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
+  - Attributes and annotations: 🖐️ used
   - Interoperability with other .NET languages: 👂 heard
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals:  🖐️ used
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity:  🖐️ used
+  - Unity: 🖐️ used
 - Web development
   - ASP.NET Core
   - Blazor

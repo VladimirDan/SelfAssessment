@@ -44,7 +44,7 @@
   - Procedure: 🎓 known
   - Method: 🖐️ used
   - Class: 🖐️ used
-  - Prototype:
+  - Prototype
   - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag: 🖐️ used
@@ -53,7 +53,7 @@
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
   - Assignment: 🖐️ used
-  - Regular expression:
+  - Regular expression
   - Interface: 🖐️ used
   - Namespaces: 🖐️ used
   - Call stack: 🖐️ used
@@ -100,7 +100,7 @@
   - Memoize: 🎓 known
   - Wrapper: 🎓 known
   - Functor: 🎓 known
-  - Monad: 
+  - Monad
   - Monoid
   - Generator
   - Coroutine: 🖐️ used
@@ -174,7 +174,7 @@
   - Magic numbers: 🖐️ used
   - Hard code: 🖐️ used
   - Soft code: 🖐️ used
-  - Cryptic code: 
+  - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
@@ -194,7 +194,7 @@
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case: 🖐️ used
-  - Temporary field:
+  - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump: 🎓 known
