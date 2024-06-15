@@ -1,7 +1,7 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET: 👂 heard
+  - Strengths and weaknesses of .NET
   - Stateful and stateless services
   - Asynchronous and synchronous programming: 🖐️ used
   - Task-based asynchronous pattern: 👂 heard
@@ -11,7 +11,7 @@
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
-  - NuGet package management: 👂 heard
+  - NuGet package management
   - Dependency management in .NET
   - Dependency Injection in .NET
   - Inversion of Control (IoC)
@@ -25,8 +25,8 @@
   - Hosting and Deployment models
   - IIS and Kestrel web server
   - Environment variables and configuration
-  - File system I/O operations: 🎓 known
-  - Multithreading with Task Parallel Library (TPL): 👂 heard
+  - File system I/O operations
+  - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
   - LINQ
@@ -34,7 +34,7 @@
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management: 👂 heard
+  - Memory and resource management
   - Globalization and localization
 - Network and Protocols
   - HTTP/HTTPS support
@@ -60,9 +60,9 @@
   - Repository and Unit of Work patterns
   - CRUD operations
 - Error Handling and Debugging
-  - Exception handling in .NET: 🎓 known
-  - Custom error classes: 🎓 known
-  - Debugging and diagnostic tools: 🎓 known
+  - Exception handling in .NET
+  - Custom error classes
+  - Debugging and diagnostic tools
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility

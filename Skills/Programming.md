@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 🖐️ used
-  - Modeling: 🖐️ used
-  - Subject domain: 🖐️ used
-  - Algorithm: 🖐️ used
-  - Syntax: 🖐️ used
-  - Semantics: 🖐️ used
-  - Abstraction: 🖐️ used
-  - Paradigm: 🖐️ used
-  - Programm: 🖐️ used
-  - Programming paradigm: 🖐️ used
-  - Programming language: 🖐️ used
-  - Contract: 🖐️ used
-  - Module: 🖐️ used
-  - Library: 🖐️ used
-  - Package: 🖐️ used
-  - Component: 🖐️ used
-  - Framework: 🖐️ used
-  - Platform: 🖐️ used
-  - Source code: 🖐️ used
-  - Object code: 👂 heard
-  - Machine code: 🎓 known
+  - Model
+  - Modeling
+  - Subject domain
+  - Algorithm
+  - Syntax
+  - Semantics
+  - Abstraction
+  - Paradigm
+  - Programm
+  - Programming paradigm
+  - Programming language
+  - Contract
+  - Module
+  - Library
+  - Package
+  - Component
+  - Framework
+  - Platform
+  - Source code
+  - Object code
+  - Machine code
   - Microcode
-  - Software engineering: 🖐️ used
-  - Decomposition: 🖐️ used
-  - Control flow: 🖐️ used
-  - Data flow: 🖐️ used
-  - Code reuse: 🖐️ used
-  - Defensive programming: 🖐️ used
-  - Don't repeat yourself (DRY): 🖐️ used
-  - KISS principle: 🎓 known
+  - Software engineering
+  - Decomposition
+  - Control flow
+  - Data flow
+  - Code reuse
+  - Defensive programming
+  - Don't repeat yourself (DRY)
+  - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -62,24 +62,24 @@
   - Camel case: 🖐️ used
   - Snake case: 🖐️ used
   - Kebab case
-  - Trailing commas: 🖐️ used
-  - Return early: 🖐️ used
+  - Trailing commas
+  - Return early
   - Fail-fast
 - Types
-  - Primitive types: 🖐️ used
-  - Reference types: 🖐️ used
-  - Type systems: 👂 heard
-  - Strong typing: 🖐️ used
-  - Weak typing: 🎓 known
+  - Primitive types
+  - Reference types
+  - Type systems
+  - Strong typing
+  - Weak typing
   - Duck typing
-  - Static typing: 🎓 known
-  - Dynamic typing: 🎓 known
+  - Static typing
+  - Dynamic typing
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference: 🎓 known
-  - Covariance: 🎓 known
-  - Contravariance: 🎓 known
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
   - Signature: 🖐️ used
   - Argument: 🖐️ used
@@ -103,72 +103,72 @@
   - Monad
   - Monoid
   - Generator
-  - Coroutine: 🖐️ used
+  - Coroutine
 - Data structures
-  - Array: 🖐️ used
-  - Structure: 🖐️ used
-  - Record: 🖐️ used
-  - Enum: 🖐️ used
-  - Instance: 🖐️ used
-  - Object: 🖐️ used
-  - Collection: 🖐️ used
-  - Set: 👂 heard
-  - Hash table: 🎓 known
-  - Linked list: 🖐️ used
-  - Doubly list: 🖐️ used
+  - Array
+  - Structure
+  - Record
+  - Enum
+  - Instance
+  - Object
+  - Collection
+  - Set
+  - Hash table
+  - Linked list
+  - Doubly list
   - Unrolled list
   - Circular list
-  - Queue: 🎓 known
-  - Stack: 🎓 known
-  - Deque: 🎓 known
-  - Tree: 🎓 known
-  - Graph: 🎓 known
-  - Iterator: 🎓 known
-  - Mutable state: 🎓 known
-  - Immutable state: 🎓 known
-  - Serialization: 🎓 known
-  - String parsing: 🎓 known
-  - JSON: 🖐️ used
+  - Queue
+  - Stack
+  - Deque
+  - Tree
+  - Graph
+  - Iterator
+  - Mutable state
+  - Immutable state
+  - Serialization
+  - String parsing
+  - JSON
   - JSON5
   - YAML
 - Networking
-  - DNS: 🎓 known
+  - DNS
   - CDN
   - CORS
-  - IPv4: 🎓 known
-  - IPv6: 🎓 known
-  - NAT: 👂 heard
-  - URL: 🎓 known
+  - IPv4
+  - IPv6
+  - NAT
+  - URL
   - URN
   - URI
 - Process and tools
-  - Compiler: 🖐️ used
-  - Just-in-time compilation: 🖐️ used
-  - Ahead-of-time compilation: 🖐️ used
-  - Transpiler: 🎓 known
-  - Linter: 🎓 known
+  - Compiler
+  - Just-in-time compilation
+  - Ahead-of-time compilation
+  - Transpiler
+  - Linter
   - Polyfill
-  - Interpreter: 🎓 known
-  - Linker: 🎓 known
-  - Dynamic linking: 👂 heard
-  - Static linking: 👂 heard
-  - Runtime: 🎓 known
-  - Virtual machine: 🖐️ used
+  - Interpreter
+  - Linker
+  - Dynamic linking
+  - Static linking
+  - Runtime
+  - Virtual machine
   - Register-based VM
   - Stack-based VM
-  - Containerization: 🖐️ used
-  - Debugger: 🖐️ used
-  - Tracing: 🖐️ used
-  - Garbage collection: 🖐️ used
-  - Refactoring: 🖐️ used
-  - Code review: 🖐️ used
-  - Exception: 🖐️ used
-  - Unittesting: 🖐️ used
-  - git: 🖐️ used
-  - Github: 🖐️ used
-  - Docker: 🖐️ used
+  - Containerization
+  - Debugger
+  - Tracing
+  - Garbage collection
+  - Refactoring
+  - Code review
+  - Exception
+  - Unittesting
+  - git
+  - Github
+  - Docker
   - Kubernetes
-  - GCC: 🎓 known
+  - GCC
   - LLVM
 - Antipatterns
   - Magic numbers: 🖐️ used
@@ -178,26 +178,26 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti: 🖐️ used
+  - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code: 🎓 known
-  - Unreachable code: 🎓 known
-  - Duplicate code: 🎓 known
-  - Premature optimization: 👂 heard
+  - Dead code
+  - Unreachable code
+  - Duplicate code
+  - Premature optimization
   - Micro-optimization
-  - Nested loops: 🖐️ used
-  - Long method/function/procedure: 🖐️ used
-  - Long inheritance: 🎓 known
-  - Large class/file: 🖐️ used
-  - Too many parameters: 🖐️ used
+  - Nested loops
+  - Long method/function/procedure
+  - Long inheritance
+  - Large class/file
+  - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
   - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
-  - Data clump: 🎓 known
+  - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
@@ -209,31 +209,31 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers: 🎓 known
-  - Kernel: 🎓 known
+  - Drivers
+  - Kernel
   - Ring
-  - Virtual memory: 🎓 known
-  - File system: 🖐️ used
-  - Linux: 🖐️ used
-  - Unix: 👂 heard
+  - Virtual memory
+  - File system
+  - Linux
+  - Unix
   - BSD
-  - MacOS: 👂 heard
-  - Windows: 🖐️ used
+  - MacOS
+  - Windows
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII: 🖐️ used
+  - ASCII
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64: 🖐️ used
+  - Base64
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8: 🖐️ used
+  - UTF-8
   - W3C
   - ODMG

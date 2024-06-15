@@ -1,23 +1,23 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️ used
-  - `Function`: 🖐️ used
-  - `Boolean`: 🖐️ used
-  - `Number`: 🖐️ used
+  - `Object`
+  - `Function`
+  - `Boolean`
+  - `Number`
   - `BigInt`
-  - `String`: 🖐️ used
-  - `Symbol`: 🖐️ used
-  - `Infinity`: 🖐️ used
-  - `NaN`: 🖐️ used
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
-  - `this`: 🖐️ used
-  - `instanceof`: 🖐️ used
+  - `String`
+  - `Symbol`
+  - `Infinity`
+  - `NaN`
+  - `undefined`
+  - `null`
+  - `this`
+  - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`: 🖐️ used
-  - Destructuring: 🖐️ used
+  - `typeof`
+  - Destructuring
   - Generators
   - Iterators
   - Async generator
@@ -26,30 +26,30 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`: 🖐️ used
+  - `global`
   - `globalThis`
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`: 🖐️ used
-  - Equality operators: 🖐️ used
-  - Logical operators: 🖐️ used
+  - `prototype`
+  - Equality operators
+  - Logical operators
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator: 🖐️ used
+  - Ternary operator
   - `void`
   - `yield`
   - `await`
   - Template literal
   - Strict mode
   - Hoisting
-  - `delete`: 🖐️ used
-  - `in`: 🖐️ used
+  - `delete`
+  - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
+  - `Number.parseInt`
+  - `Number.parseFloat`
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🖐️ used
-  - `for..of`: 🖐️ used
+  - `if`
+  - `while`
+  - `do..while`
+  - `for`
+  - `for..in`
+  - `for..of`
   - `for await`
-  - `throw`: 🖐️ used
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
+  - `throw`
+  - `break`
+  - `continue`
   - `import`
   - `export`
   - `label`
-  - `try..catch`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `class`: 🖐️ used
+  - `try..catch`
+  - `switch`
+  - `class`
   - `extends`
   - `with`
-  - `new`: 🖐️ used
+  - `new`
 - Functions
-  - Arrow function: 🖐️ used
+  - Arrow function
   - Async function
-  - Function declaration: 🖐️ used
+  - Function declaration
   - Function expression
   - Default parameters
-  - Functional object: 🖐️ used
+  - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`: 🖐️ used
+  - `return`
 - Data structures
-  - `Array`: 🖐️ used
+  - `Array`
   - `Map`
   - `Set`
   - `WeakMap`
@@ -116,7 +116,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm: 🖐️ used
+  - npm
   - prettier
   - MDN
   - TC39

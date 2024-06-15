@@ -1,9 +1,9 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️ used
-  - Imperative programming: 🖐️ used
-  - Structured programming: 🖐️ used
+  - Procedural programming
+  - Imperative programming
+  - Structured programming
   - Non-structured programming
   - Functional programming: 🎓 known
   - Prototype-based programming: 👂 heard
@@ -49,14 +49,14 @@
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert: 👂 heard
-  - Creator: 👂 heard
-  - Controller: 👂 heard
-  - Indirection: 👂 heard
-  - Low coupling: 👂 heard
-  - High cohesion: 👂 heard
-  - Protected variations: 👂 heard
-  - Pure fabrication: 👂 heard
+  - Information expert
+  - Creator
+  - Controller
+  - Indirection
+  - Low coupling
+  - High cohesion
+  - Protected variations
+  - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP): 🖐️ used
   - Open–closed principle (OCP): 🖐️ used
@@ -79,13 +79,13 @@
   - Bridge: 👂 heard
   - Builder: 🎓 known
   - Prototype
-  - Composite: 👂 heard
-  - Decorator: 👂 heard
+  - Composite
+  - Decorator
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor: 👂 heard
+  - Visitor
   - Reactor
   - Active object
   - Delegation

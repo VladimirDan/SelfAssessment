@@ -1,53 +1,53 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🖐️ used
-  - Components: 🖐️ used
-  - Directories: 🖐️ used
-  - GRASP: 🎓 known
-  - SOLID: 🖐️ used
+  - Modularity
+  - Components
+  - Directories
+  - GRASP
+  - SOLID
   - GoF patterns
   - CQS
-  - Leaking abstractions: 🎓 known
-  - Multiparadigm code: 🖐️ used
-  - Contract programming: 🖐️ used
-  - Platform-agnostic: 🖐️ used
-  - Transport-agnostic: 🖐️ used
-  - Framework-agnostic: 🖐️ used
-  - Code coverage: 🖐️ used
-  - Cohesion: 🖐️ used
-  - Coupling: 🖐️ used
-  - Cyclomatic complexity: 🖐️ used
-  - Reliability: 🖐️ used
-  - Quality: 🖐️ used
-  - Availability: 🖐️ used
-  - Flexibility: 🖐️ used
+  - Leaking abstractions
+  - Multiparadigm code
+  - Contract programming
+  - Platform-agnostic
+  - Transport-agnostic
+  - Framework-agnostic
+  - Code coverage
+  - Cohesion
+  - Coupling
+  - Cyclomatic complexity
+  - Reliability
+  - Quality
+  - Availability
+  - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: 🖐️ used
+  - Isolation between layer
   - Domain-specific language (DSL)
-  - System vs applied code: 👂 heard
-  - Multilayer approach: 🖐️ used
+  - System vs applied code
+  - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC): 🖐️ used
-  - Metaprogramming: 👂 heard
-  - Inversion of control (IoC): 🖐️ used
-  - Dependency injection (DI): 🖐️ used
+  - Separation of concerns (SoC)
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
-  - Service locator: 🖐️ used
+  - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML: 🖐️ used
-  - Work breakdown structure: 👂 heard
-  - Budget estimation: 👂 heard
+  - UML
+  - Work breakdown structure
+  - Budget estimation
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -68,27 +68,27 @@
   - Process modelling
   - Data modelling: 🖐️ used
   - Solution components
-  - Risk assessment: 👂 heard
+  - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
   - Low-code
-  - No-code: 👂 heard
+  - No-code
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs: 👂 heard
+  - Understanding business needs
   - Enterprise strategy
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope: 🖐️ used
   - Enterprise service bus
-  - Service-oriented architecture: 🖐️ used
-  - Microservices: 🖐️ used
+  - Service-oriented architecture
+  - Microservices
   - Process choreography
   - Service orchestration
   - Data warehouse
