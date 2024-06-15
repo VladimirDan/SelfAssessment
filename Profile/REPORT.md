@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-343&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/VladimirDan/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-345&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/VladimirDan/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-343&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/VladimirDan/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-345&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/VladimirDan/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/VladimirDan/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-343&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/VladimirDan/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-345&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -59,8 +59,8 @@
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `19` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `11` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `2` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `3` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `3` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `4` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
