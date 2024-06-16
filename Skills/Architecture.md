@@ -60,6 +60,10 @@
   - Serverless
   - Vendor lock-in
   - Bus factor
+  - Entity Component System k
+  - MVC k
+  - MVP u
+  - MVVM k
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
