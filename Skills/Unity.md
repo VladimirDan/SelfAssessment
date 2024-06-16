@@ -1,9 +1,9 @@
 ## Unity
 
 - Libraries
-  - Vcontainer u
-  - UniRx u
-  - UniTask u
-  - Addressables u
+  - Vcontainer: 🖐️ used
+  - UniRx: 🖐️ used
+  - UniTask: 🖐️ used
+  - Addressables: 🖐️ used
 - Fameworks
-  - Fusion u
+  - Fusion: 🖐️ used
