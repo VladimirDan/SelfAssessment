@@ -60,13 +60,17 @@
   - Serverless
   - Vendor lock-in
   - Bus factor
+  - Entity Component System: 🎓 known
+  - MVC: 🎓 known
+  - MVP: 🖐️ used
+  - MVVM: 🎓 known
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling: 🖐️ used
   - Solution components
   - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR)
@@ -85,7 +89,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 🖐️ used
   - Enterprise service bus
   - Service-oriented architecture: 🖐️ used
   - Microservices: 🖐️ used
