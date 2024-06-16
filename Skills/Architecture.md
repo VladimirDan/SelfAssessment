@@ -60,10 +60,10 @@
   - Serverless
   - Vendor lock-in
   - Bus factor
-  - Entity Component System k
-  - MVC k
-  - MVP u
-  - MVVM k
+  - Entity Component System: 🎓 known
+  - MVC: 🎓 known
+  - MVP: 🖐️ used
+  - MVVM: 🎓 known
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
